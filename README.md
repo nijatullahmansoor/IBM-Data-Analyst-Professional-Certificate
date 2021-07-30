@@ -21,4 +21,4 @@ Throughout the program, you’ll complete hands-on projects and labs and gain a 
  
  ### SKILLS YOU WILL GAIN
 
-`Microsoft Excel`  `Python Programming` `Data Analysis` `Data Visualization (DataViz)` `SQL` `Data Science` `Spreadsheet` `Pivot Table` `IBM Cognos Analytics` `Dashboard` 'Pandas` `Numpy`
+`Microsoft Excel`  `Python Programming` `Data Analysis` `Data Visualization (DataViz)` `SQL` `Data Science` `Spreadsheet` `Pivot Table` `IBM Cognos Analytics` `Dashboard` `Pandas` `Numpy`
